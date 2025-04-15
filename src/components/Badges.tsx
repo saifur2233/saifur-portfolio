@@ -7,14 +7,14 @@ const badges = [
     platform: "LeetCode",
     title: "50 Days Badge 2024",
     image: "https://assets.leetcode.com/static_assets/marketing/2024-50.gif",
-    profile: "https://leetcode.com/deepakmodi/",
+        profile: "https://leetcode.com/saifurnstuiit223344/",
   },
   {
     id: "leetcode-100",
     platform: "LeetCode",
     title: "100 Days Badge 2024",
     image: "https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif",
-    profile: "https://leetcode.com/deepakmodi/",
+      profile: "https://leetcode.com/saifurnstuiit223344/",
   },
 
   {
@@ -22,14 +22,14 @@ const badges = [
     platform: "GitHub",
     title: "Pull Shark",
     image: "https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png",
-    profile: "https://github.com/decodewithdeepak",
+    profile: "https://github.com/saifur2233",
   },
   {
     id: "github-arctic",
     platform: "GitHub",
     title: "Arctic Code Vault Contributor",
     image: "https://github.githubassets.com/images/modules/profile/badge--acv-64.png",
-    profile: "https://github.com/decodewithdeepak",
+    profile: "https://github.com/saifur2233",
   },
 
   {
@@ -37,7 +37,7 @@ const badges = [
     platform: "CodeChef",
     title: "3-Star Coder",
     image: "https://img.icons8.com/color/96/codechef.png",
-    profile: "https://www.codechef.com/users/deepakmodi",
+    profile: "https://www.codechef.com/users/saifur2233",
   },
 
   {
@@ -45,7 +45,7 @@ const badges = [
     platform: "CodeForces",
     title: "Expert Rank",
     image: "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png",
-    profile: "https://codeforces.com/profile/deepakmodi",
+    profile: "https://codeforces.com/profile/saifur2233",
   },
 
   {
@@ -53,7 +53,7 @@ const badges = [
     platform: "GeeksforGeeks",
     title: "Top 10% Coder",
     image: "https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg",
-    profile: "https://auth.geeksforgeeks.org/user/deepakmodi/profile",
+    profile: "https://auth.geeksforgeeks.org/user/saifur2233/profile",
   },
 
   {
@@ -61,7 +61,7 @@ const badges = [
     platform: "HackerRank",
     title: "Java Gold Badge",
     image: "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png",
-    profile: "https://www.hackerrank.com/deepakmodi",
+      profile: "https://www.hackerrank.com/saifurnstuiit221",
   },
 ];
 

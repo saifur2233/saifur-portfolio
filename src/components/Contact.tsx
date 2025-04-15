@@ -19,7 +19,7 @@ export function Contact() {
 
             <div className="space-y-4">
               <a
-                href="mailto:deepakmodi8676@gmail.com"
+                href="mailto:saifurnstuiit223344@gmail.com"
                 className="flex items-center gap-3 text-gray-600 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400"
               >
                 <Mail className="w-6 h-6" />

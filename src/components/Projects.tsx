@@ -64,9 +64,9 @@ const projects = [
   {
     title: 'Portfolio',
     description: 'A personal portfolio website showcasing projects, skills, blogs, and contact section with responsive design and modern UI/UX styling.',
-    image: '/assets/portfolio.webp',
-    link: 'https://deepakmodi.vercel.app',
-    github: 'https://github.com/decodewithdeepak/portfolio',
+    image: '/assets/portfolio.png',
+    link: '#',
+      github: 'https://github.com/saifur2233/saifur-portfolio',
     techStack: [
       techStacks.next,
       techStacks.react,
@@ -76,10 +76,11 @@ const projects = [
     ],
   },
   {
-    title: 'NeoCompiler',
-    description: 'An online compiler supporting multiple languages with auth, themes, and AI-assisted suggestions. Part of the NeoCode ecosystem.',
-    image: '/assets/codecompiler.webp',
-    github: 'https://github.com/decodewithdeepak/codecompiler',
+      title: 'Image Hub | Drag and Drop Image Gallary',
+      description: 'Image Hub is an innovative and user-friendly online platform designed to cater to all your image-related needs. It provides a seamless experience for managing, organizing, and interacting with images in a gallery format. The platform features a drag-and-drop interface, allowing users to effortlessly upload images into the gallery and organize them as desired.',
+      image: '/assets/image-hub.png',
+      link: 'https://image-hub.netlify.app/',
+      github: 'https://github.com/saifur2233/ReactJS-Project-ImageGallery',
     techStack: [
       techStacks.next,
       techStacks.typescript,
@@ -90,10 +91,10 @@ const projects = [
     ],
   },
   {
-    title: 'NeoChat',
-    description: 'A real-time chat application using WebSockets, supporting private and group messaging, typing indicators, and clean UI for all devices.',
-    image: '/assets/neochat.webp',
-    github: 'https://github.com/decodewithdeepak/neochat',
+      title: 'Auraro | Online Furniture Shop',
+      description: 'Auraro is a second hand furniture sale website. It is the biggest platform in the Bangladesh. Anyone can sell his/her used furniture here. Anyone can buyer used furniture in a low cost. A seller can advertise for his/her furniture to display in advertise page. A normal-user can see his/her wishlist product. An admin can manage the full website. An admin can delete any user from the website.',
+      image: 'https://user-images.githubusercontent.com/85455377/230288945-30253db6-7430-4979-b8b7-c4a5ca018502.png',
+      github: 'https://github.com/saifur2233/NodeJS_Project_Auraro_Server',
     techStack: [
       techStacks.next,
       techStacks.typescript,
@@ -103,10 +104,10 @@ const projects = [
     ],
   },
   {
-    title: 'Ajay Sharma',
-    description: 'A freelance project built for Ajay Sharma, a self-empowerment coach. Designed landing page, pricing section, and integrated payments.',
-    image: '/assets/ajaysharma.webp',
-    link: 'https://ajay-sharma.vercel.app',
+      title: 'Hey-Tech',
+      description: 'Hey-Tech is the most popular Laptop Brand Shop in BD. Hey-Tech Laptop Shop has the perfect device, whether you are a freelancer, officegoer, or student. Gamers love our collection of Gaming Laptops because we always bring the latest laptops in Bangladesh. We offer top-of-the-line Custom PC, Brand PC, All-in-One PC, and Portable Mini PC at Star Tech outlets, the best Desktop PC shop in Bangladesh, which are spread nationwide.',
+      image: '/assets/hey-tech.png',
+      link: 'https://next-js-project-hey-tech.vercel.app/',
     techStack: [
       techStacks.react,
       techStacks.typescript,
