@@ -65,7 +65,7 @@ const projects = [
     title: 'Portfolio',
     description: 'A personal portfolio website showcasing projects, skills, blogs, and contact section with responsive design and modern UI/UX styling.',
     image: '/assets/portfolio.png',
-    link: '#',
+      link: 'https://saifur-rahman.vercel.app/',
       github: 'https://github.com/saifur2233/saifur-portfolio',
     techStack: [
       techStacks.next,
