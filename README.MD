@@ -2,7 +2,7 @@
 
 Welcome to **My Portfolio**! This is my personal portfolio for showcasing my skills, projects, experience, education, certifications, and more. It’s built using React, TypeScript, Tailwind CSS, and other modern web technologies. It fetches data from various APIs to display the latest information, such as GitHub repositories, LeetCode submissions, and blogs. The portfolio is responsive, interactive, and optimized for performance.
 
-Check it out live at: Coming Soon
+Check it out live at: [https://saifur-rahman.vercel.app/](https://saifur-rahman.vercel.app/)
 
 ---
 
@@ -131,7 +131,7 @@ Feel free to reach out to me through any of the following channels:
 
 - **Email**: [saifurnstuiit223344@gmail.com](mailto:saifurnstuiit223344@gmail.com)
 - **LinkedIn**: [linkedin.com/in/saifur-rahman2233](https://www.linkedin.com/in/saifur-rahman2233/)
-- **Website**: Comming Soon
+- **Website**: [saifur-rahman.vercel.app](https://saifur-rahman.vercel.app/)
 
 ---
 
