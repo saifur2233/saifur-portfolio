@@ -4,22 +4,22 @@ import { EducationCard } from './ui/EducationCard';
 
 const education = [
   {
-    degree: 'B.Tech in Computer Science Engineering',
-    institution: 'St. Andrews Institute of Technology and Management, Gurgaon',
-    period: '2022 - 2026',
-    score: '80%',
+        degree: 'Bachelor of Science in Software Engineering',
+        institution: 'IIT, Noakhali Science and Technology University',
+    period: '2018 - 2023',
+        CGPA: '3.63 (in scale of 4), Graduated',
   },
   {
-    degree: 'Senior Secondary (XII)',
-    institution: 'Inter Science College, Hazaribagh',
-    period: '2019 - 2021',
-    score: '88%',
+      degree: 'HSC - Higher Secondary School Certificate',
+      institution: 'Ispahani Public School and College',
+    period: '2015 - 2017',
+      score: 'Major: Science, Obtained GPA: 4.83 (in scale of 5)',
   },
   {
-    degree: 'Secondary (X)',
-    institution: "St. Paul's School, Hazaribagh",
-    period: '2017 - 2019',
-    score: '85.6%',
+      degree: 'SSC - Secondary School Certificate',
+      institution: "Dharmapur Nazim Ali High School and College",
+    period: '2013 - 2015',
+      score: 'Major: Science, Obtained GPA: 5.00 (on a scale of 5)',
   },
 ];
 
