@@ -11,29 +11,43 @@ const certifications = [
         issuer: "HackerRank",
     date: "May 2023",
         link: "https://www.hackerrank.com/certificates/iframe/d2e556c4f341",
-        image: "https://www.hackerrank.com/certificates/iframe/d2e556c4f341",
+        image: "/assets/problem_solving_basic certificate_page.jpg",
   },
   {
       title: "Problem Solving (Intermediate) Certificate",
       issuer: "HackerRank",
     date: "May 2023",
       link: "https://www.hackerrank.com/certificates/24e0a2d15c11",
-      image: "https://www.hackerrank.com/certificates/24e0a2d15c11",
+      image: "/assets/problem_solving_intermediate certificate_page.jpg",
   },
   {
       title: "SQL (Advanced) Certificate",
       issuer: "HackerRank",
     date: "MAy 2023",
       link: "https://www.hackerrank.com/certificates/24e0a2d15c11",
-      image: "https://www.hackerrank.com/certificates/24e0a2d15c11",
+      image: "/assets/sql_advanced certificate_page.jpg",
   },
   {
       title: "Python (Basic) Certificate",
       issuer: "HackerRank",
     date: "May 2023",
       link: "https://www.hackerrank.com/certificates/24e0a2d15c11",
-      image: "https://www.hackerrank.com/certificates/24e0a2d15c11",
-  },
+      image: "/assets/python_basic certificate_page.jpg",
+    },
+    {
+        title: "Java (Basic) Certificate",
+        issuer: "HackerRank",
+        date: "May 2023",
+        link: "https://www.hackerrank.com/certificates/24e0a2d15c11",
+        image: "/assets/java_basic certificate_page.jpg",
+    },
+    {
+        title: "React (Basic) Certificate",
+        issuer: "HackerRank",
+        date: "May 2023",
+        link: "https://www.hackerrank.com/certificates/24e0a2d15c11",
+        image: "/assets/react_basic certificate_page.jpg",
+    },
 ];
 
 export function Certifications() {
